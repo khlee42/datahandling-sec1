@@ -1,0 +1,31 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  # title: 
+  # description:
+  keywords: []
+
+  # github:
+  # bibliography: []
+  abbreviations:
+    SQL: Structured Query Language
+    MyST: Markedly Structured Text
+    THE: Take-Home Exercise
+    ICE: In-Class Exercise
+    ASMT: Assignment
+    PDA: Python for Data Analysis
+    ABS: Automate the Boring Stuff with Python
+  
+site:
+  template: book-theme
+  title: INSY 336
+  logo: ./images/mcgill_desautels_logo-red-rgb.png
+  logo_dark: ./images/mcgill_desautels_logo-white-on-red-rgb.png
+  nav: []
+  # actions:
+  #   - title: Learn More
+  #     url: https://mystmd.org/guide
+  domains: []
+  hide_toc: true
+  hide_footer_links: true
+  # hide_outline: true
