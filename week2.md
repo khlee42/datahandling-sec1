@@ -23,7 +23,7 @@ This module introduces students to the interface of Jupyter notebook and fundame
 * ABS: [Python Basics][abs link]
 :::
 
-[pdf link]: https://khlee42.github.io/datahandling-content/slides/intro.pdf
+[pdf link]: https://khlee42.github.io/datahandling-content-pdf/intro.pdf
 [notebook link]: https://
 [pda link]: https://wesmckinney.com/book/python-basics
 [abs link]: https://automatetheboringstuff.com/2e/chapter1/
