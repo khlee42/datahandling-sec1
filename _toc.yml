@@ -27,11 +27,11 @@ parts:
     chapters:
       - file: week1
       - file: week2
-  - caption: Assignment
+  - caption: Coursework
     chapters:
+      - file: the1
       # - file: ice1
-      # - file: the1
       # - file: asgmt1
-  - caption: Exam
-    chapters:
-      # - file: exam1
+  # - caption: Exam
+  #   chapters:
+  #     # - file: exam1
