@@ -26,6 +26,6 @@ site:
   #   - title: Learn More
   #     url: https://mystmd.org/guide
   domains: []
-  hide_toc: true
+  # hide_toc: true
   hide_footer_links: true
   # hide_outline: true

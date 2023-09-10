@@ -18,9 +18,10 @@ For this course, we'll be using Google Colab to run Python code. Colab is a free
 For this course, we'll be using EdStem to run Python code. EdStem is a cloud service that provides a Jupyter notebook environment, which allows you to write and execute Python code in your browser, with no setup required. It is also an online learning platform that allows you to submit your work and receive feedback from the instructor. You can also use EdStem to ask questions and discuss course materials with your classmates. 
 
 :::{hint} How-to
-* You will receive an email invitation to join EdStem. Follow the instructions in the email to sign up.
-
 * This badge ![](images/launch-lesson-blue-ed.svg) will appear throughout the course. Click on it to open the notebook in EdStem.
+
+* You have already been added to the course on EdStem. Use your McGill email address to sign in.
+
 :::
 
 ## DataCamp
@@ -44,5 +45,4 @@ DataCamp is an online learning platform that offers interactive courses in Pytho
 
 :::
 
-[edstem signup link]: https://
-[datacamp signup link]: https://
+[datacamp signup link]: https://www.datacamp.com/groups/shared_links/a5cadcb59af06723e745ce45b5aba0da39e8d56cd6d00747d23a2a4a0af760d2
