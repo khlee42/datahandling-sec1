@@ -24,7 +24,7 @@ This session introduces students to the interface of Jupyter notebook and fundam
 * ABS: [Python Basics][abs link]
 :::
 
-[pdf link]: https://khlee42.github.io/datahandling-content-pdf/variables.pdf
+[pdf link]: https://khlee42.github.io/datahandling-content-pdf/variables_ws.pdf
 [notebook link]: https://edstem.org/us/courses/47021/lessons/75248
 [pda link]: https://wesmckinney.com/book/python-basics
 [abs link]: https://automatetheboringstuff.com/2e/chapter1/
