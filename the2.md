@@ -1,5 +1,5 @@
 ---
-title: THE1 - Introduction to Python
+title: THE2 - Intermediate Python
 subject: Take-Home Exercise
 # subtitle: subtitle
 ---
@@ -7,10 +7,10 @@ subject: Take-Home Exercise
 [![](images/launch-datacamp-blue-datacamp.svg)][datacamp link]
 
 :::{important}
-* Course: Introduction to Python
-* Complete Chapter 1, 3
-* **Assigned date:** 2023-09-12
-* **Due date:** 2023-09-19 (before class)
+* Course: Intermediate Python
+* Complete Chapter 2, 3, 4
+* **Assigned date:** 2023-09-19
+* **Due date:** 2023-09-26 (before class)
 :::
 
 * You can also access the assignment through your DataCamp dashboard
@@ -18,4 +18,4 @@ subject: Take-Home Exercise
 * Your progress will be automatically saved in your DataCamp account and shared with the instructor. **You do not need to submit anything to myCourses**
 * Be sure to check the due date in this page as well as your DataCamp dashboard
 
-[datacamp link]: https://app.datacamp.com/learn/courses/intro-to-python-for-data-science
+[datacamp link]: https://app.datacamp.com/learn/courses/intermediate-python

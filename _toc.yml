@@ -27,9 +27,11 @@ parts:
     chapters:
       - file: week1
       - file: week2
+      - file: week3
   - caption: Coursework
     chapters:
       - file: the1
+      - file: the2
       # - file: ice1
       # - file: asgmt1
   # - caption: Exam
