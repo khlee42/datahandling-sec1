@@ -24,7 +24,7 @@ In this lab session, we will delve into the building blocks of control flow, par
 * ABS: [Flow Control][abs link]
 :::
 
-[pdf link]: https://khlee42.github.io/datahandling-content-pdf/control-conditional.pdf
+[pdf link]: https://khlee42.github.io/datahandling-content-pdf/control-conditional_ws.pdf
 [notebook link]: https://edstem.org/us/courses/47021/lessons/75860
 [pda link]: https://wesmckinney.com/book/python-basics
 [abs link]: https://automatetheboringstuff.com/2e/chapter2/
