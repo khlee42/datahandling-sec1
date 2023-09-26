@@ -28,6 +28,7 @@ parts:
       - file: week1
       - file: week2
       - file: week3
+      - file: week4
   - caption: Coursework
     chapters:
       - file: the1
