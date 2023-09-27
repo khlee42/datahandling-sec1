@@ -33,6 +33,7 @@ parts:
     chapters:
       - file: the1
       - file: the2
+      - file: mock1
       # - file: ice1
       # - file: asgmt1
   # - caption: Exam
