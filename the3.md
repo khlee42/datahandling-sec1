@@ -10,7 +10,7 @@ subject: Take-Home Exercise
 * Course: Intermediate SQL Queries
 * Complete Chapter 1, 2, 3, 4
 * **Assigned date:** 2023-10-17
-* **Due date:** 2023-10-24 (before class)
+* **Due date:** 2023-10-31 (before class)
 :::
 
 * You can also access the assignment through your DataCamp dashboard
