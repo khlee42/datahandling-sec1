@@ -27,7 +27,7 @@ Database is the foundation of data science. In this session, we will learn the b
 * [SQLBolt][resource link]
 :::
 
-[pdf link1]: https://khlee42.github.io/datahandling-content-pdf/SQLintro.pdf
-[pdf link2]: https://khlee42.github.io/datahandling-content-pdf/SQLbasic.pdf
+[pdf link1]: https://khlee42.github.io/datahandling-content-pdf/SQLintro_ws.pdf
+[pdf link2]: https://khlee42.github.io/datahandling-content-pdf/SQLbasic_ws.pdf
 [notebook link]: https://edstem.org/us/courses/47021/lessons/78983
 [resource link]: https://sqlbolt.com
