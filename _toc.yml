@@ -30,14 +30,15 @@ parts:
       - file: week3
       - file: week4
       - file: week6
+      - file: week7
   - caption: Coursework
     chapters:
       - file: the1
       - file: the2
       - file: mock1
       - file: the3
+      - file: asmt1
       # - file: ice1
-      # - file: asgmt1
   # - caption: Exam
   #   chapters:
   #     # - file: exam1
