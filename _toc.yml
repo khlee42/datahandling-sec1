@@ -40,6 +40,7 @@ parts:
       - file: the3
       - file: asmt1
       - file: the4
+      - file: mock2
       # - file: ice1
   # - caption: Exam
   #   chapters:
