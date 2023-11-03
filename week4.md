@@ -26,7 +26,7 @@ In this lab session, we will delve into the building blocks of control flow, par
 * ABS: [Dictionaries and Strucring Data][abs link3]
 :::
 
-[pdf link]: https://khlee42.github.io/datahandling-content-pdf/control-loop.pdf
+[pdf link]: https://khlee42.github.io/datahandling-content-pdf/control-loop_ws.pdf
 [notebook link]: https://edstem.org/us/courses/47021/lessons/76669
 [pda link]: https://wesmckinney.com/book/python-builtin
 [abs link1]: https://automatetheboringstuff.com/2e/chapter2/

@@ -29,8 +29,8 @@ This session will introduce the `pandas` library, which is a powerful tool for d
 
 :::
 
-[pdf link1]: https://khlee42.github.io/datahandling-content-pdf/SQLinPython.pdf
-[pdf link2]: https://khlee42.github.io/datahandling-content-pdf/pandas.pdf
+[pdf link1]: https://khlee42.github.io/datahandling-content-pdf/SQLinPython_ws.pdf
+[pdf link2]: https://khlee42.github.io/datahandling-content-pdf/pandas_ws.pdf
 [notebook link]: https://edstem.org/us/courses/47021/lessons/80284
 [pda link1]: https://wesmckinney.com/book/pandas-basics
 [pda link2]: https://wesmckinney.com/book/accessing-data

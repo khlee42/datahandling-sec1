@@ -27,7 +27,7 @@ We'll continue on Data Manipulation in SQL, and learn how to aggregate and combi
 * [SQLBolt][resource link]
 :::
 
-[pdf link1]: https://khlee42.github.io/datahandling-content-pdf/SQLadvanced.pdf
-[pdf link2]: https://khlee42.github.io/datahandling-content-pdf/SQLDDL.pdf
+[pdf link1]: https://khlee42.github.io/datahandling-content-pdf/SQLadvanced_ws.pdf
+[pdf link2]: https://khlee42.github.io/datahandling-content-pdf/SQLDDL_ws.pdf
 [notebook link]: https://edstem.org/us/courses/47021/lessons/79528
 [resource link]: https://sqlbolt.com
