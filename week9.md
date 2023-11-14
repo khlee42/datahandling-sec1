@@ -30,8 +30,8 @@ This session will introduce the `requests` library, which is a powerful tool for
 
 :::
 
-[pdf link1]: https://khlee42.github.io/datahandling-content-pdf/api.pdf
-[pdf link2]: https://khlee42.github.io/datahandling-content-pdf/etl.pdf
+[pdf link1]: https://khlee42.github.io/datahandling-content-pdf/api_ws.pdf
+[pdf link2]: https://khlee42.github.io/datahandling-content-pdf/etl_ws.pdf
 [notebook link]: https://edstem.org/us/courses/47021/lessons/81566
 [pda link1]: https://wesmckinney.com/book/accessing-data
 [abs link1]: https://automatetheboringstuff.com/2e/chapter12/
