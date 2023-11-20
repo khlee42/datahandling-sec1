@@ -29,7 +29,7 @@ DataCamp is an online learning platform that offers interactive courses in Pytho
 
 :::{hint} How-to
 * Use [this link][datacamp signup link] to sign up for DataCamp. **The link is unique to this section only.**
-* You must use your **@mail.mcgill.ca** email address to sign up.
+* You must use your **mail.mcgill.ca** email address to sign up.
 
 * You can access the exercises through the links in each module (![](images/launch-datacamp-blue-datacamp.svg)) or through your DataCamp dashboard. 
 

@@ -1,5 +1,5 @@
 ---
-title: Week 9 - Extract, Transform, Load (ETL)
+title: Week 10 - Extract, Transform, Load (ETL)
 subject: Lecture
 subtitle: API, JSON, requests, sqlite3
 ---

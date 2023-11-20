@@ -56,29 +56,29 @@ In addition to the lab tutorials, each session will incorporate in-class exercis
 To reinforce the skills and concepts taught in class, students will be given access to specially designed exercises hosted on DataCamp, a leading online platform for learning coding. These take-home exercises include both tutorials and interactive coding challenges, allowing for thorough practice in a self-paced environment. Students may attempt these exercises multiple times up to the specified due date, and will receive a pass/fail grade based on their completion status.
 | Take-Home exercise | Topic                |
 |--------------------|----------------------|
-| THE1 (2)               | Functions, variables |
-| THE2 (2)               | Control              |
-| THE3 (2)               | Data manipulation    |
-| THE4 (2)               | SQL                  |
-| THE5 (2)               | Visualization        |
+| THE1 (2)           | Functions, variables |
+| THE2 (2)           | Control              |
+| THE3 (2)           | Data manipulation    |
+| THE4 (2)           | SQL                  |
+| THE5 (2)           | Visualization        |
 
 ### Assignment (ASMT)
 Assignments serve as a cornerstone of the course, offering students an opportunity to apply and integrate their newly acquired skills in a real-world context. Each assignment will focus on distinct programming tasks that span the topics covered in class, progressing from individual techniques to comprehensive, end-to-end Extract-Transform-Load (ETL) processes.
 Students will be tasked with retrieving data from APIs, cleaning and transforming this data, and subsequently loading it into a SQL database. The assignments are designed to be sequential, building upon the outputs of of prior assignments.
 
-| ****Assignment**** | ****Topic****                                                |
-|--------------------|--------------------------------------------------------------|
-| ASMT1 (5)              | Create a Python program to fetch and process data from a web API. |
-| ASMT2 (10)             | Execute SQL queries to design, populate, and interact with a database. |
-| ASMT3 (10)             | Construct a Python program to complete an ETL process: extract data from a web API, transform it, and load it into a SQL database. |
+| ****Assignment**** | ****Topic****                                                                                                                      |
+|--------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| ASMT1 (5)          | Create a Python program to fetch and process data from a web API.                                                                  |
+| ASMT2 (10)         | Execute SQL queries to design, populate, and interact with a database.                                                             |
+| ASMT3 (10)         | Construct a Python program to complete an ETL process: extract data from a web API, transform it, and load it into a SQL database. |
 
 ### Quiz
 The quizzes aim to assess students' understanding of the course material and their ability to apply learned concepts within a timed environment. These assessments will cover crucial aspects of programming, from foundational skills to more specialized topics.
 
 | ****Exam**** | ****Topic****                         |
 |--------------|---------------------------------------|
-| Quiz 1 (15)      | Fundamentals of Programming in Python |
-| Quiz 2 (15)      | Data Manipulation and Loading in SQL  |
+| Quiz 1 (15)  | Fundamentals of Programming in Python |
+| Quiz 2 (15)  | Data Manipulation and Loading in SQL  |
 
 Each quiz will feature a mix of multiple-choice questions, short-answer queries, and hands-on coding challenges, all administered in class within a fixed timeframe. Students are encouraged to actively engage with course materials and in-class exercises as part of their preparation for these assessments.
 
@@ -99,16 +99,16 @@ Your final grade for the course will be calculated based on the cumulative point
 To translate these percentages into letter grades and grade points, the following grading scale will be applied:
 
 | ****Grades**** | ****Grade Points**** | ****Numerical Scale of Grades**** |
-|---|---|---|
-| A | 4.0 | 85 – 100% |
-| A- | 3.7 | 80 – 84% |
-| B+ | 3.3 | 75 – 79% |
-| B | 3.0 | 70 – 74% |
-| B- | 2.7 | 65 – 69% |
-| C+ | 2.3 | 60 – 64% |
-| C | 2.0 | 55 – 59% |
-| D | 1.0 | 50 – 54% |
-| F (Fail) | 0 | 0 – 49% |
+|----------------|----------------------|-----------------------------------|
+| A              | 4.0                  | 85 – 100%                         |
+| A-             | 3.7                  | 80 – 84%                          |
+| B+             | 3.3                  | 75 – 79%                          |
+| B              | 3.0                  | 70 – 74%                          |
+| B-             | 2.7                  | 65 – 69%                          |
+| C+             | 2.3                  | 60 – 64%                          |
+| C              | 2.0                  | 55 – 59%                          |
+| D              | 1.0                  | 50 – 54%                          |
+| F (Fail)       | 0                    | 0 – 49%                           |
 
 Refer to [McGill Grading and Credit Policy](~https://www.mcgill.ca/desautels/programs/bcom/current-students/rules-and-regulations/grading#:~:text=In%20order%20to%20maintain%20consistency,core%20and%20non%2Dcore%29.~) for details.
 
@@ -134,11 +134,12 @@ Please note that failure to adhere to these policies or to communicate promptly 
 | 7    | Data loading in SQL            | Advanced SQL; aggregate, join, create, insert            |      | ASMT1  |
 | 8    | Data manipulation in Pandas    | Pandas; select, filter, sort, join                       | THE4 |        |
 | 9    | Quiz 2                         |                                                          |      |        |
-| 10   | ETL in Python - 1              | API, JSON, extract, transform                            |      | ASMT2  |
-| 11   | ETL in Python - 2              | Create and populate db                                   | THE5 |        |
-| 12   | ETL in Python - 3              | Query db                                                 |      | ASMT3  |
+| 10   | ETL in Python - 1              | API, JSON, extract, transform, load                      |      | ASMT2  |
+| 11   | ETL in Python - 2              | ETL and Data Exploration                                 | THE5 |        |
+| 12   | ETL in Python - 3              | ETL and Sentiment analysis                               |      | ASMT3  |
 | 13   | Review and Q&A                 |                                                          |      |        |
 | 14   | Final exam                     |                                                          |      |        |
+
 :::{caution} Due dates
 *: Due in one week (THE)  
 ** Due in two weeks (ASMT)

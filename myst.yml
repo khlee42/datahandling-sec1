@@ -15,17 +15,19 @@ project:
     ASMT: Assignment
     PDA: Python for Data Analysis
     ABS: Automate the Boring Stuff with Python
+    ETL: Extract, Transform, Load
   
 site:
   template: book-theme
   title: INSY 336
-  logo: ./images/mcgill_desautels_logo-red-rgb.png
-  logo_dark: ./images/mcgill_desautels_logo-white-on-red-rgb.png
   nav: []
   # actions:
   #   - title: Learn More
   #     url: https://mystmd.org/guide
   domains: []
-  # hide_toc: true
-  hide_footer_links: true
-  # hide_outline: true
+  options:
+    logo: ./images/mcgill_desautels_logo-red-rgb.png
+    logo_dark: ./images/mcgill_desautels_logo-white-on-red-rgb.png
+    # hide_toc: true
+    hide_footer_links: true
+    # hide_outline: true
