@@ -26,7 +26,7 @@ This session will reinforce the skills you learned in the previous lesson on ETL
 
 :::
 
-[pdf link1]: https://khlee42.github.io/datahandling-content-pdf/pandasadvanced.pdf
+[pdf link1]: https://khlee42.github.io/datahandling-content-pdf/pandasadvanced_ws.pdf
 [notebook link]: https://edstem.org/us/courses/47021/lessons/82005
 [pda link1]: https://wesmckinney.com/book/data-cleaning
 [pda link2]: https://wesmckinney.com/book/data-aggregation
