@@ -34,6 +34,7 @@ parts:
       - file: week8
       - file: week10
       - file: week11
+      - file: week12
   - caption: Coursework
     chapters:
       - file: the1
@@ -45,3 +46,10 @@ parts:
       - file: mock2
       - file: asmt2
       - file: the5
+      - file: asmt3
+        sections:
+          - file: instructions
+          - file: hint0
+          - file: hint1
+          - file: hint2
+          - file: hint3
