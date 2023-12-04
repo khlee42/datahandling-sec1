@@ -35,6 +35,7 @@ parts:
       - file: week10
       - file: week11
       - file: week12
+      - file: week13
   - caption: Coursework
     chapters:
       - file: the1
